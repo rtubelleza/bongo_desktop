@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bongo_desktop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bongo_desktop_jar</output-path>
+    <root id="archive" name="bongo_desktop.jar">
+      <element id="module-output" name="bongo_desktop" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/24.0.0/annotations-24.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jnativehook-2.2.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
